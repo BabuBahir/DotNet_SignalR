@@ -26,5 +26,10 @@ namespace DotNet_signalR.Controllers
 
             return View();
         }
+
+        public ActionResult Chat()
+        {
+            return View();
+        }
     }
 }
